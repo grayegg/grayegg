@@ -1,4 +1,8 @@
-### Hi there 👋
+### 박선영 👋
+
+📌 TensorFlow Developers Certificate
+📌 경인교육대학교 교육전문대학원 AI교육전공 재학중
+
 
 <!--
 **grayegg/grayegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
