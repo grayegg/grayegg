@@ -3,6 +3,8 @@
 📌 TensorFlow Developers Certificate<br>
 📌 경인교육대학교 교육전문대학원 AI교육전공 재학중<br>
 
+
+
 😄 교육 콘텐츠 개발<br>
 - AI스크래치연구실
 
